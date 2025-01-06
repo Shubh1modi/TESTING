@@ -188,13 +188,7 @@
 <script>
   // Your web app's Firebase configuration replace it with your's firebase
   var firebaseConfig = {
-    apiKey: "",
-    authDomain: "",
-    projectId: "",
-    storageBucket: "",
-    messagingSenderId: "",
-    appId: "",
-    measurementId: ""
+
     };
     // End firebase
   firebase.initializeApp(firebaseConfig);
