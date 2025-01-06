@@ -187,7 +187,13 @@
 
 <script>
   // Your web app's Firebase configuration replace it with your's firebase
-  var firebaseConfig = {
+  var firebaseConfig = {apiKey: "AIzaSyBuBKYWwCyHiMx63cyasVdn3IBEomFFfUY",
+    authDomain: "locus1-c246e.firebaseapp.com",
+    projectId: "locus1-c246e",
+    storageBucket: "locus1-c246e.firebasestorage.app",
+    messagingSenderId: "1089347256488",
+    appId: "1:1089347256488:web:62aa79476268e677a9029d",
+    measurementId: "G-4SLL1QWZLZ"
 
     };
     // End firebase
