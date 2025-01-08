@@ -17,11 +17,11 @@ return [
 
     //'theme' => 'eCart_02',
 
-    'home_url' => env("APP_URL", "http://127.0.0.1:8000/"),
+    'home_url' => env("testing-ashen-ten.vercel.app", "http://127.0.0.1:8000/"),
 
-    'api_url' => env("API_URL", "https://ecartdev.wrteam.co.in/api-firebase/"),
+    'api_url' => env("testing-ashen-ten.vercel.app/adminpanel", "https://ecartdev.wrteam.co.in/api-firebase/"),
 
-    'asset_url' => env("ASSET_URL1", "https://ecartdev.wrteam.co.in/dist/img/"),
+    'asset_url' => env("testing-ashen-ten.vercel.app/adminpanel/dist/img/", "https://ecartdev.wrteam.co.in/dist/img/"),
     
     'access_key' => env("ACCESS_KEY", "accesskey"),
 
